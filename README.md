@@ -1,4 +1,4 @@
-# 💻 CSE1111 Solved Codes – 1st Semester (RUET EEE)
+# 💻 CSE1101 Solved Codes – 1st Semester (RUET EEE)
 
 Welcome! This repo contains all the codes I wrote during my 1st semester **CSE1111: Computer Programming** course at RUET (EEE).
 
