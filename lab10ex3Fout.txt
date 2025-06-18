@@ -1,0 +1,21 @@
+Espresso
+Price 150
+Rating 4.5
+Latte
+Price 200
+Rating 4.2
+Cappuccino
+Price 180
+Rating 4.7
+Americano
+Price 120
+Rating 4.0
+Mocha
+Price 220
+Rating 4.6
+Macchiato
+Price 190
+Rating 4.3
+FlatWhite
+Price 210
+Rating 4.4

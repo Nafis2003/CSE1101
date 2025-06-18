@@ -1,0 +1,7 @@
+Espresso 150 4.5
+Latte 200 4.2
+Cappuccino 180 4.7
+Americano 120 4.0
+Mocha 220 4.6
+Macchiato 190 4.3
+FlatWhite 210 4.4
