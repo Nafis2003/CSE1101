@@ -34,6 +34,12 @@ This structure keeps everything clean, predictable, and easy to follow.
 
 ---
 
+## 🌐 Learning Resources
+
+Want to dive deeper? Check out the [Resources](resources.md) file for a curated list of YouTube channels, websites, and practice platforms to boost your C programming skills.
+
+---
+
 ## ✉️ Need Help?
 If you're stuck or confused, feel free to DM me.  
 Just don’t expect spoon-feeding 😄—but I’ll point you in the right direction.
